@@ -1,4 +1,4 @@
-- Yaharo! I'm Ayuki, a student in NTHU but still live in a small town in Tainan.
+- やはろ! I'm Ayuki, a student in NTHU but still live in a small town in Tainan.
 - 
 - Current Project:
 -   Project NNKIEH
