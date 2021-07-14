@@ -1,6 +1,9 @@
 - やはろ! I'm Ayuki, a student in NTHU but still live in a small town in Tainan.
-- 
-- Current Project:
+
+  Current Project:
+  None
+
+- Done Project:
 -   Project NNKIEH
 -
 - Still many things need to be learned...
