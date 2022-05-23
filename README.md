@@ -8,7 +8,7 @@
  
   Still many things need to be learned...
   
-- If you want to contact me, you can DM my twitter @pause582 .
+- If you want to contact me, please DM my twitter @pause582 .
 
 <!---
 pause582/pause582 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
